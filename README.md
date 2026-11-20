@@ -2,7 +2,7 @@
 
 一张海报，一个入口。持续维护的 S3 网站收藏画廊。
 
-**线上入口：https://zzhuangxd.github.io/s3-gallery/**
+**线上入口：https://phoiex.github.io/s3-gallery/**
 
 当前主表是 [`data/sites.json`](data/sites.json)，沿用 Uxie 的 L 编号。初始 7 个网站的来源清单见 [SOURCE_LIST.md](SOURCE_LIST.md)。
 
